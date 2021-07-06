@@ -189,7 +189,12 @@
 /* Testimonial section Start (Extra) */
 #testimoial_section{
     padding: 80px 0;
-    margin-bottom: 100px;
+    margin-bottom: 30px;
+    margin-top: 40px;
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 .customer{
     
