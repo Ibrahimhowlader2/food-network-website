@@ -30,10 +30,8 @@
     font-family: 'Montserrat', sans-serif;
     font-size: 65px;
     font-weight: 700;
-    
     line-height: 1.3;
-    color: #575757;
-    
+    color: #575757; 
 }
 .halfwidth p{
     font-family: 'Montserrat', sans-serif;
@@ -41,8 +39,7 @@
     color: #828282;
     line-height: 1.8;
     letter-spacing: 1px;
-    margin: 40px 0;
-    
+    margin: 40px 0; 
 }
 .btn{
     font-family: 'Montserrat', sans-serif;
@@ -56,9 +53,7 @@
     border-radius: 100px;
     color: #FFF;
     letter-spacing: 2px;
-
 }
-
 /* About Section Start  */
 .about_section{
     padding: 80px 0;
@@ -71,11 +66,9 @@
     width: 100%;
     height: auto;
 }
-
 .about_left{
     width: 40%;
-    height: auto;
-    
+    height: auto; 
 }
 .about_right{
     width: 55%;
@@ -104,7 +97,6 @@
 /* Recipes Section Start  */
 .recipes_section{
     padding:80px 0;
-    
 }
 .section_title h2{
     font-family: 'Montserrat', sans-serif;
@@ -129,7 +121,6 @@
 .recipes img{
     width: 100%;
 }
-
 .recipe{
     float: left;
     margin-left: 4%;
@@ -160,7 +151,6 @@
 .clearfix{
     clear: both;
 }
-
 /* social flowers */
 #social_items{
     display: flex;
@@ -172,7 +162,6 @@
     box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1);
     border-radius: 20px;
 }
-
 .social h2{
     font-size: 50px;
     font-weight: 700;
@@ -197,7 +186,6 @@
 
 }
 .customer{
-    
     display: flex;
     align-items: center;
     padding: 60px 0;
@@ -235,7 +223,6 @@
 #service_section{
     padding: 80px 0;
 }
-
 .section_title h4{
     font-family: 'Montserrat', sans-serif;
     text-align: center;
@@ -260,14 +247,12 @@
     background: #FFFFFF;
     box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
     border-radius: 15px;
-
 }
 .service h3{
     font-family: 'Montserrat', sans-serif;
     font-size: 30px; 
     line-height: 4;
     color: #575757;
-
 }
 .service p{
     font-size: 18px;
@@ -298,6 +283,5 @@
     font-weight: 400;
     text-align: center;
     color: #fff;
-
 }
 /* footer section End  */
